@@ -8,9 +8,15 @@ Mills is a strategy board game for two players. The game has many variations, su
 #### Description of the Three main variations
 1. Three men's morris (TMM) - consists of a grid with 9 intersections, or points. Each player has 3 men. Mills can be also formed diagonally.
 
+<img src="https://github.com/user-attachments/assets/a40448cb-075a-4542-b96b-20711bf593da" alt="Three Men's Morris" width="300"/>
+
 2. Six men's morris (SMM) - consists of grid with 16 intersections, or points. Each player has 6 men. 
 
+<img src="https://github.com/user-attachments/assets/2503c23d-887f-4ef9-9065-594478507d8b" alt="Six Men's Morris" width="300"/>
+
 3. Nine men's morris (NMM) - consists of grid with 24 intersections, or points. Each player has 9 men.
+
+<img src="https://github.com/user-attachments/assets/1a049bd0-025d-4595-b6e8-229572c7f102" alt="Nine Men's Morris" width="300"/>
 
 #### How to win
 - Players try to form **_mills_** — three of their own men lined horizontally, vertically, or sometimes diagonally — allowing a player to remove an opponent's man from the game. 
