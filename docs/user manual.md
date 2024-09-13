@@ -7,6 +7,8 @@
 
 After the game is launched, a **menu** pops up with few options to interact with.
 
+![image](https://github.com/user-attachments/assets/a442fc47-75c2-4e7a-9b03-d88d590a2ad4)
+
 #### What can you interact with?
 - **Check Boxes** - Interact by checking/unchecking them. There are three check boxes in total, each representing one of the game variations:
 
